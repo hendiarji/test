@@ -1,3 +1,3 @@
 # test
 
-# belajar git fundamanetal
+# belajar git fundamental
